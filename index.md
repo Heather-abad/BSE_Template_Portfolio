@@ -1,6 +1,5 @@
 ﻿# Garden Monitoring System
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
-
+The Garden Monitoring System is an effecient way when it comes to cultivating the soil, it can come in handy when one owns planatations and even housplants. It helps nurish the plants by notifiying owners whether they have  exceeded with  watering their plants, sometimes to much of something isnt always great when it comes to planting!
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Heather | NYCiSchool | Computer Science | Incoming Senior
