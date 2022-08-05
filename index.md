@@ -14,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone is connecting the buzzer to the breadstone. I placed the buzzer into the breadboard, specifically a45 and a48, from there i placed a jumped wore in the same rowof each leg of the buzzer. The end of these wires were connected to the aurdino, one of them being in GND and the other in 11. Once these chnages in the circiut was made, I added the buzzer to my coding, so when  the mositure sensor is put into test, the buzzer will go off, letting me know if the soil is mositorized or not. 
+My second milestone is connecting the buzzer to the breadboard. I placed the buzzer into the breadboard, specifically a45 and a48, from there, I placed a jumper wire in the same row of each leg of the buzzer. The end of these wires were connected to the aurdino, one of them being in GND and the other in 11. Once these changes in the circiut was made, I added the buzzer to my coding, so when  the mositure sensor is put into test, the buzzer will go off, letting me know if the soil is mositorized or not. 
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1659708784/video_to_markdown/images/youtube--KdEil7YsJGY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KdEil7YsJGY "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
