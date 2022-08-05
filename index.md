@@ -6,7 +6,7 @@ My name is Heather Abad and I am an upcoming senior this fall in NYCiSchool.The 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 
-|:--:|:--:|:--:|:--:|
+
 | Heather | NYCiSchool | Computer Science | Incoming Senior
 
   
