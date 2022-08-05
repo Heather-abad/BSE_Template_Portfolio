@@ -1,4 +1,5 @@
 About the Creator
+
 My name is Heather Abad and I am an upcoming senior this fall in NyciSchool.The Garden Monitoring System is an effecient way when it comes to cultivating the soil, it can come in handy when one owns planatations and even housplants. It helps nurish the plants by notifiying owners whether they have  exceeded with  watering their plants, sometimes to much of something isnt always great when it comes to planting!
 
 <a href="https://ibb.co/ZHmM7mr"><img src="https://i.ibb.co/LQ5ZH5y/63-C1-BE5-A-D728-4101-A860-82-E5222803-D1.jpg" alt="63-C1-BE5-A-D728-4101-A860-82-E5222803-D1" border="0"></a>
